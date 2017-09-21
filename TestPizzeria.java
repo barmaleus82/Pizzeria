@@ -1,6 +1,6 @@
 package Pizza;
 
-public class TestPizza {
+public class TestPizzeria {
     public static void main(String[] args) {
         String fileName = "d://java/Projects/Lection6/src/Pizza/PizzaData.txt";
         try {
